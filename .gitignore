@@ -2,6 +2,7 @@
 **/bin/
 **/obj/
 
+test.txt
 
 #extra filter to ignore dll files
 **/obj/Debug/net6.0/
