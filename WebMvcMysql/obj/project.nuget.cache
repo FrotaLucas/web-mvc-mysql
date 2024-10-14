@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxeBADyQXB0/POwwdxJej/TL+miAyKB7xeAs8Dr7PScMlgxXa1+G+pEFHketPkZ9b0k1FFiRKhs54pnCcWFvTw==",
+  "dgSpecHash": "z3PpfcMewL2/uX3S2YEj5++KwmDwFpTlv5vi3aie6qlCVJe7S3+zujcp5Tn3kok/kEg46eSP/M38VGgKyCAcrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

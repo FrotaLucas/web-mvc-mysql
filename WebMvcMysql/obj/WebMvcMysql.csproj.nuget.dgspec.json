@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj": {}
+    "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj": {
+    "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
         "projectName": "WebMvcMysql",
-        "projectPath": "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
+        "projectPath": "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\WebMvcMysql.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Projects Visual Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Projects_Visual_Studio\\Mvc_project\\WebMvcMysql\\WebMvcMysql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
